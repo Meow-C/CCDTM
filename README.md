@@ -22,5 +22,5 @@ code with ICRA'22 paper - (Fast Collision Checking for Dual-Arm Collaborative Ro
 
 * run the node in ./yumi_demo/src/yumi_tm_opt_fcl_pencil.cpp
 
-* some dataset and custom toolkit can be download from  
+* some datasets and custom toolkits can be downloaded from the link   
   https://pan.baidu.com/s/18immdgoyab5S8AYaXVz9vw?pwd=el4f  
