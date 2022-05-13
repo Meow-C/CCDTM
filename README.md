@@ -1,45 +1,23 @@
 # MCCDTM
+code with ICRA'22 paper - (Fast Collision Checking for Dual-Arm Collaborative Robots Working in Close Proximity)
 
-## Token setting
+## Description
+* Forward kinematic formula using Taylor model  
+  implementation of the Taylor model, see files in ./fcl/tm
 
-name: MCCDTM_visitor
+* Collision checking algorithm using Taylor model  
+  see demo in ./yumi_demo/src
 
-token: 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
+## Requirments
+* C++ (tested on C++11)
+* FCL (added to this repository)
+* ROS (tested on Kinetic)
+* MoiveIt! (tested on MoveIt!1)
 
-```
-$  git remote set-url origin https://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@github.com/Meow-C/MCCDTM.git
-```
+## Demos
+* BVH toolkit
+  build BVH for robot
 
-## SSH
+* run the demo.luanch of yumi_config_demo
 
-Your identification has been saved in /home/monica/.ssh/id_ed25519.
-
-Your public key has been saved in /home/monica/.ssh/id_ed25519.pub.
-
-The key fingerprint is:
-
-SHA256:fxs0+VKQie9+vxuqJdrd3IJ9ELyiZ7eT0zcYiuHljRI monica_zhou96@163.com
-
-The key's randomart image is:
-
-+--[ED25519 256]--+
-
-|                 |
-
-|           . o   |
-
-|          . +.   |
-
-|           . oo  |
-
-|        S   = .o |
-
-|         E +.=o  |
-
-|        . BoO=+= |
-
-|         ++*B*%.*|
-
-|         ..=+=.%B|
-
-+----[SHA256]-----+
+* run the node in ./yumi_demo/src
