@@ -20,4 +20,4 @@ code with ICRA'22 paper - (Fast Collision Checking for Dual-Arm Collaborative Ro
 
 * run the demo.luanch of yumi_config_demo
 
-* run the node in ./yumi_demo/src
+* run the node in ./yumi_demo/src/yumi_tm_opt_fcl_pencil.cpp
