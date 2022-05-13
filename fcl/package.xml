@@ -1,0 +1,22 @@
+<package>
+  <name>libfcl-dev</name>
+  <version>0.3.3</version>
+  <description>FCL is a collision checking library</description>
+  <author email="panj@cs.unc.edu">Jia Pan</author>
+  <maintainer email="isucan@google.com">Ioan Sucan</maintainer>
+  <license>BSD</license>
+
+  <url>http://gamma.cs.unc.edu/FCL/</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>pkg-config</buildtool_depend>
+
+  <build_depend>octomap</build_depend>
+  <build_depend>libccd</build_depend>
+  <build_depend>boost</build_depend>
+
+  <run_depend>octomap</run_depend>
+  <run_depend>libccd</run_depend>
+  <run_depend>boost</run_depend>
+
+</package>

@@ -1,0 +1,27 @@
+Transform from yumi_body to yumi_link_1_r:
+position :[0.05355, -0.0725, 0.41492]
+quaternion :[0.4077963603936713, -0.3142898282232758, 0.8287650228357129, -0.2192545763471746]
+Transform from yumi_link_1_r to yumi_link_2_r:
+position :[0.03, 0.0, 0.1]
+quaternion :[0.7071067811848163, 0.0, 0.0, 0.7071067811882787]
+Transform from yumi_link_2_r to yumi_link_3_r:
+position :[-0.03, 0.17283, 0.0]
+quaternion :[-0.7071067811848163, 0.0, 0.0, 0.7071067811882787]
+Transform from yumi_link_3_r to yumi_link_4_r:
+position :[-0.04188, 0.0, 0.07873]
+quaternion :[0.5, -0.5, 0.49999999999755174, 0.5000000000024483]
+Transform from yumi_link_4_r to yumi_link_5_r:
+position :[0.0405, 0.16461, 0.0]
+quaternion :[-0.7071067811848163, 0.0, 0.0, 0.7071067811882787]
+Transform from yumi_link_5_r to yumi_link_6_r:
+position :[-0.027, 0.0, 0.10039]
+quaternion :[0.7071067811848163, 0.0, 0.0, 0.7071067811882787]
+Transform from yumi_link_6_r to yumi_link_7_r:
+position :[0.027, 0.029, 0.0]
+quaternion :[-0.7071067811848163, 0.0, 0.0, 0.7071067811882787]
+Transform from yumi_link_7_r to gripper_r_base:
+position :[0.0, 0.0, 0.007]
+quaternion :[0.0, 0.0, 1.0, -1.0341155355510722e-13]
+Transform from gripper_r_base to gripper_r_finger_l:
+position :[0.0, 0.0065, 0.0837]
+quaternion :[0.0, 0.0, 1.0, -1.0341155355510722e-13]

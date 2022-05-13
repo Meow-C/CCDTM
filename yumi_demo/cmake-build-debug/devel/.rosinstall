@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/monica/yumi/src/yumi_demo/cmake-build-debug/devel/setup.sh
