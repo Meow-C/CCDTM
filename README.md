@@ -1,4 +1,4 @@
-# MCCDTM
+# CCDTM
 code with ICRA'22 paper - (Fast Collision Checking for Dual-Arm Collaborative Robots Working in Close Proximity)
 
 ## Description
@@ -21,3 +21,6 @@ code with ICRA'22 paper - (Fast Collision Checking for Dual-Arm Collaborative Ro
 * run the demo.luanch of yumi_config_demo
 
 * run the node in ./yumi_demo/src/yumi_tm_opt_fcl_pencil.cpp
+
+* some dataset and custom toolkit can be download from  
+  https://pan.baidu.com/s/18immdgoyab5S8AYaXVz9vw?pwd=el4f  
